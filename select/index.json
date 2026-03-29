@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "VYZEE",
+  "base_artist": "SOPHIE",
+  "createdAt": "2026-03-29T11:35:34.469465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VYZEE",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/01_VYZEE_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VYZEE",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/02_VYZEE_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vyzee",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/03_Vyzee_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VYZEE",
+      "artist": "sweetiele",
+      "has_synced": true,
+      "path": "select/04_VYZEE_sweetiele.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VYZEE (Paused)",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/05_VYZEE_(Paused)_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VYZEE",
+      "artist": "sweetiele Six Dior",
+      "has_synced": true,
+      "path": "select/06_VYZEE_sweetiele_Six_Dior.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "VYZEE (Paused)",
+      "artist": "sweetiele",
+      "has_synced": true,
+      "path": "select/07_VYZEE_(Paused)_sweetiele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VYZEE",
+      "artist": "SOPHIE",
+      "has_synced": false,
+      "path": "select/pl_01_VYZEE_SOPHIE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "VYZEE",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/localdb_01_VYZEE_SOPHIE.lrc",
+      "repo_name": "KXdRl6Ml37I"
+    }
+  ]
+}
